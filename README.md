@@ -1,4 +1,3 @@
-# Arindom-Chakraborty.github.io
 <!DOCTYPE html>
 <html lang="en">
 <head>
